@@ -1,11 +1,17 @@
-body{
-    background-color: khaki; margin: auto;
+* {
+    background-color: #fff;
+     margin: auto;
 }
 
 nav{
-    background-color: chocolate;
     color: whitesmoke;
 }
+
+nav:hover{
+    color: blue;
+}
+
+
 
 main{
     background-color: chocolate;
