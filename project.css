@@ -1,0 +1,24 @@
+body{
+    background-color: khaki; margin: auto;
+}
+
+nav{
+    background-color: chocolate;
+    color: whitesmoke;
+}
+
+main{
+    background-color: chocolate;
+    color: whitesmoke;
+}
+
+a{
+    color: brown;
+    background-color: whitesmoke;
+}
+
+table,tr,td,th,caption{
+    border: 0.5px solid whitesmoke;  
+    padding: 0.5rem;
+    border-collapse: collapse;
+}
